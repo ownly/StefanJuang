@@ -1,0 +1,6 @@
+
+State Machine - |mem|state
+Name state.dataread state.guidance state.idle 
+state.idle 0 0 0 
+state.guidance 0 1 1 
+state.dataread 1 0 1 
